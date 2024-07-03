@@ -1,2 +1,3 @@
 # my-first-project
-Thi is my first poroject
+
+This is my first poroject
